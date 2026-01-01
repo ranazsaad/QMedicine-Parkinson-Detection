@@ -1,0 +1,6 @@
+﻿Config: Qubits=8, FM=Z, Ansatz=RealAmplitudes with entanglement='linear', Reps=10, Opt=SPSA
+Accuracy: 0.7237
+Precision: 0.7591
+Recall: 0.9204
+F1 Score: 0.8320
+Parameters: 88, Depth: 40, Qubits: 8

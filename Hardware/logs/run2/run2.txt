@@ -1,0 +1,5 @@
+Config: Qubits=4, FM=Z, Ansatz=RealAmplitudes, Reps=10, Opt=SPSA
+Accuracy: 0.7039
+Parameters: 44, Depth: 36, Qubits: 4
+Best Model Accuracy: 0.7039
+Best Metrics: Parameters=44, Depth=36, Qubits=4

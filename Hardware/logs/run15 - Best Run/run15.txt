@@ -1,0 +1,6 @@
+﻿Config: Qubits=8, FM=Z, Ansatz=RealAmplitudes, Reps=10, Opt=SPSA
+Accuracy: 0.7434
+Precision: 0.7606
+Recall: 0.9558
+F1 Score: 0.8471
+Parameters: 88, Depth: 40, Qubits: 8

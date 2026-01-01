@@ -1,0 +1,6 @@
+Config: Qubits=4, FM=Z, Ansatz=RealAmplitudes, Reps=3, Opt=COBYLA
+Accuracy: 0.7039
+Precision: 0.7464
+Recall: 0.9115
+F1 Score: 0.8207
+Parameters: 16, Depth: 15, Qubits: 4

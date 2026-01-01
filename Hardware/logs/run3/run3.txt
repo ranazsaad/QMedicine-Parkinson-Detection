@@ -1,0 +1,7 @@
+Config: Qubits=4, FM=Z, Ansatz=TwoLocal_full, Reps=5, Opt=SPSA
+Accuracy: 0.7303
+Precision: 0.7609
+Recall: 0.9292
+F1 Score: 0.8367
+Parameters: 24, Depth: 31, Qubits: 4
+

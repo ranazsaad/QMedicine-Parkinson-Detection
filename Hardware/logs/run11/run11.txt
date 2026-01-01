@@ -1,0 +1,6 @@
+Config: Qubits=4, FM=ZZ, Ansatz=EfficientSU2, Reps=5, Opt=SPSA
+Accuracy: 0.5461
+Precision: 0.8056
+Recall: 0.5133
+F1 Score: 0.6270
+Parameters: 48, Depth: 54, Qubits: 4
