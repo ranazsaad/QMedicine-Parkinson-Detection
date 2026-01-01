@@ -11,7 +11,9 @@ This repository provides a **scientific and reproducible framework** for compari
 ---
 
 ## Hackathon Context
-This project was developed during **the Alexandria Quantum Hackathon, Egypt’s first-ever national quantum hackathon hosted by the Bibliotheca Alexandrina**, where our team achieved **2nd place 🥈** with the **QMedicine Project**
+The Alexandria Quantum Hackathon 2025 is Egypt’s first national quantum competition, organized by the Bibliotheca Alexandrina, iQafé Academy, and supported by the Open Quantum Institute (OQI), CERN, and IBM.
+
+During the hackathon, our team developed this project (**QMedicine Project**) achieving **2nd place 🥈**
 
 ---
 
